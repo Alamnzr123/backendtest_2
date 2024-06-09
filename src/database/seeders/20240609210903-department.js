@@ -12,7 +12,6 @@ module.exports = {
      *   isBetaMember: false
      * }], {});
     */
-
     const dataDepartment = require('../../../data/dataDepartment.json');
     dataDepartment.forEach(el => {
       el.createdAt = new Date();
