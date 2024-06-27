@@ -5,8 +5,6 @@
   <br />
 </h1>
 
-![screenshot](public/ss2.png)
-
 **CRUD Employee Web Application** is test for PT Immobi Solusi Prima **React**.
 If any developer want adding another feature for further development are welcome **:)**
 
